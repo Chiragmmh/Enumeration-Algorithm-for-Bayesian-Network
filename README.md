@@ -8,10 +8,10 @@ e)EU(A,B)
 f)EU(A|B)
 g)EU(A,B|C)
 h)EU(A,B|C,D)
-a)MEU(A,B)
-b)MEU(A|B)
-c)MEU(A,B|C)
-d)MEU(A,B|C,D)
+i)MEU(A,B)
+j)MEU(A|B)
+k)MEU(A,B|C)
+l)MEU(A,B|C,D)
 If decision nodes exist, they should be mentioned either in queries or evidence. 
 Referred Enumeration Algorithm from AIMA.
 
